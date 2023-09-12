@@ -1,4 +1,4 @@
-# Team-Moongsal-Travel.zip-BE
+# Team-Moongsal-Travelogues-BE
 ![KakaoTalk_Photo_2023-03-14-23-10-09](https://user-images.githubusercontent.com/86584887/225027850-6837caad-cb6f-4802-8f9b-cc5a89fe93db.png)
 
 
